@@ -1,0 +1,14 @@
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\bin\Debug\net8.0\3C43-G01-C#04_demo.exe
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\bin\Debug\net8.0\3C43-G01-C#04_demo.deps.json
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\bin\Debug\net8.0\3C43-G01-C#04_demo.runtimeconfig.json
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\bin\Debug\net8.0\3C43-G01-C#04_demo.dll
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\bin\Debug\net8.0\3C43-G01-C#04_demo.pdb
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.AssemblyInfoInputs.cache
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.AssemblyInfo.cs
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.csproj.CoreCompileInputs.cache
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.dll
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\refint\3C43-G01-C#04_demo.dll
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.pdb
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\3C43-G01-C#04_demo.genruntimeconfig.cache
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\3C43-G01-C#04_demo\3C43-G01-C#04_demo\obj\Debug\net8.0\ref\3C43-G01-C#04_demo.dll
